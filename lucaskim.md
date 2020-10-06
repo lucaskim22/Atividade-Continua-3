@@ -1,3 +1,27 @@
+# Comandos básicos para gerenciamento de arquivos e pastas no terminal do Linux
+ 
+
+_cd_ -- Navegando entre diretórios
+
+_ls_ -- Listar arquivos
+
+_mkdir_ - Cria um diretório
+
+_rmdir_ - Remove um diretório vazio
+
+_cp_ - Cópia de arquivos e diretórios
+
+_mv_ - Move arquivos e diretórios
+	
+_rm_ - Deleta arquivos do diretório
+
+_In_ - Linkando arquivos 
+
+_cat_ - Exibe o conteúdo de um arquivo ou direciona-o para outro
+
+
+
+
 # GIT
 
 ## Estados
