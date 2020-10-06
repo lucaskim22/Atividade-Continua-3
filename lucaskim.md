@@ -26,10 +26,10 @@ As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado 
 As configurações realizadas através dos comandos abaixo serão incluídas no arquivo citado acima.
 
 ##### Setar usuário
-	git config --global user.name "Leonardo Comelli"
+	git config --global user.name "Lucas Kim"
 
 ##### Setar email
-	git config --global user.email leonardo@software-ltda.com.br
+	git config --global user.email lucas.kim@aluno.faculdadeimpacta.com.br
 	
 ##### Setar editor
 	git config --global core.editor vim
@@ -440,5 +440,8 @@ Se o commit estiver com o problema, então ele deverá ser marcado como **ruim**
 Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	
 	git bisect reset
-  
-  ***LUCAS KIM ***
+ 	
+
+# Contribuições
+
+Sinta-se a vontade para realizar adicionar mais informações ou realizar correções. Fork me!
