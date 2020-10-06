@@ -21,7 +21,7 @@
 
 ### Geral
 
-As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional (Ex.: Windows: C:\Users\Documents and Settings\Lucas ou *nix /home/leonardo).
+As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional (Ex.: Windows: C:\Users\Documents and Settings\Lucas ou *nix /home/lucas).
 
 As configurações realizadas através dos comandos abaixo serão incluídas no arquivo citado acima.
 
@@ -185,7 +185,7 @@ A alteração do diretório pode ser realizada através do comando abaixo:
 
 ### Vincular repositório local com um repositório remoto
 
-	git remote add origin git@github.com:leocomelli/curso-git.git
+	git remote add origin git@github.com:lucaskim22/curso-git.git
 	
 ### Exibir informações dos repositórios remotos
 
@@ -222,7 +222,7 @@ Os demais **pushes** não precisam dessa informação
 	
 ### Clonar um repositório remoto já existente
 
-	git clone git@github.com:leocomelli/curso-git.git
+	git clone git@github.com:lucaskim22/curso-git.git
 	
 ### Tags
 
